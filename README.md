@@ -98,6 +98,16 @@ GitHub Projects ayuda a visualizar el progreso del proyecto y facilita la organi
 2. Selecciona un flujo de trabajo existente o crea uno nuevo haciendo clic en "New Workflow".
 3. Elige un archivo de plantilla o escribe un archivo YAML para definir los pasos a automatizar.
 
+<div align="center"> 
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/44681c84-d6cb-4c41-9481-269c81085233" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/9112f5d8-524f-438a-bd90-066cfae94aa5" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
+
 ##### Ejemplo de flujo de trabajo para pruebas automatizadas:
 
 ```{yaml}
