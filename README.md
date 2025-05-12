@@ -200,15 +200,13 @@ Un simple archivo  `index.html`  puede ser creado como la página de inicio de t
 ```
 
 ### 7. Uso de GitHub Codespaces
-# 📚 Guía para usar GitHub Codespaces
-
-## 📌 ¿Qué es GitHub Codespaces?
+## ¿Qué es GitHub Codespaces?
 
 GitHub Codespaces es un entorno de desarrollo alojado en la nube que permite trabajar desde cualquier lugar, sin necesidad de configurar nada en tu computadora local. Puedes usarlo desde el navegador o desde Visual Studio Code.
 
 ---
 
-## 📌 Requisitos previos
+## Requisitos previos
 
 - Tener una cuenta activa en [GitHub](https://github.com/).
 - Contar con permisos sobre el repositorio donde se desea trabajar.
@@ -216,7 +214,7 @@ GitHub Codespaces es un entorno de desarrollo alojado en la nube que permite tra
 
 ---
 
-## 📌 Cómo crear un Codespace
+## Cómo crear un Codespace
 
 ### Desde GitHub Web:
 
