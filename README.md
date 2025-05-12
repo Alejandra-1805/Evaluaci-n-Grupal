@@ -254,7 +254,13 @@ GitHub Codespaces es un entorno de desarrollo alojado en la nube que permite tra
  <img src="https://github.com/user-attachments/assets/84bf9a61-82c4-4400-8a8c-7c30835b58eb" width="400" alt="Captura de pantalla">
   
 ##### Ejemplo de uso:
-Si estás trabajando en un proyecto `Node.js`, puedes abrir GitHub Codespaces y comenzar a editar los archivos, ejecutar pruebas y hacer commits directamente desde la interfaz web.
+Un caso simple como el escribir un comando con extensión de python. 
+1. ![Captura de pantalla 2025-05-12 144840](https://github.com/user-attachments/assets/d7bcdfb4-9a0c-4404-8388-e4c853291765)
+2.![Captura de pantalla 2025-05-12 150515](https://github.com/user-attachments/assets/ef675b82-472a-4b74-a5ce-568421f49ab7)
+
+3.![Captura de pantalla 2025-05-12 150900](https://github.com/user-attachments/assets/15998425-bf36-475f-aa1f-4c3e1f4312ab)
+
+4. ![Captura de pantalla 2025-05-12 153817](https://github.com/user-attachments/assets/a02c0343-7228-44c5-b0c1-46aada56e760)
 
 ### 8. GitHub Dev Editor
 El GitHub Dev Editor es una herramienta en línea que permite editar archivos directamente en el navegador sin necesidad de configurar un entorno local.
