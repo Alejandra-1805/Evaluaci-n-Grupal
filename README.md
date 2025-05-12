@@ -237,19 +237,21 @@ GitHub Codespaces es un entorno de desarrollo alojado en la nube que permite tra
 #### Cómo usar Codespaces desde Visual Studio Code
 
 1. Abrir Visual Studio Code.
- <img src="https://github.com/user-attachments/assets/d083aee9-e007-43bf-9b0d-1cbedad78e72" width="400" alt="Captura de pantalla">
-
-
-2. Iniciar sesión en GitHub desde Visual Studio Code.
-    <img src="https://github.com/user-attachments/assets/39676acb-9831-4837-9d57-f6049bdfb461" width="400" alt="Captura de pantalla">
-    
-3. Hacer clic en el ícono de **Remote Explorer** o buscar la opción **Codespaces** en la barra lateral izquierda.
    
-   <img src="https://github.com/user-attachments/assets/584972ed-c2ec-418d-97a7-6f3346f10b15" width="400" alt="Captura de pantalla">
+ <img src="https://github.com/user-attachments/assets/d083aee9-e007-43bf-9b0d-1cbedad78e72" width="300" alt="Captura de pantalla">
+
+
+3. Iniciar sesión en GitHub desde Visual Studio Code.
+   
+  <img src="https://github.com/user-attachments/assets/39676acb-9831-4837-9d57-f6049bdfb461" width="200" alt="Captura de pantalla">
+    
+4. Hacer clic en el ícono de **Remote Explorer** o buscar la opción **Codespaces** en la barra lateral izquierda.
+   
+  <img src="https://github.com/user-attachments/assets/584972ed-c2ec-418d-97a7-6f3346f10b15" width="400" alt="Captura de pantalla">
    
 5. Elegir un Codespace existente o crear uno nuevo desde allí.
    
-   <img src="https://github.com/user-attachments/assets/84bf9a61-82c4-4400-8a8c-7c30835b58eb" width="400" alt="Captura de pantalla">
+ <img src="https://github.com/user-attachments/assets/84bf9a61-82c4-4400-8a8c-7c30835b58eb" width="400" alt="Captura de pantalla">
   
 ##### Ejemplo de uso:
 Si estás trabajando en un proyecto `Node.js`, puedes abrir GitHub Codespaces y comenzar a editar los archivos, ejecutar pruebas y hacer commits directamente desde la interfaz web.
