@@ -172,10 +172,16 @@ git push origin nueva-rama
 
 
 ### 6. Publicación de Sitios Web con GitHub Pages
-GitHub Pages permite crear y publicar sitios web estáticos directamente desde un repositorio. Es útil para blogs, portfolios y documentación.
+GitHub Pages permite publicar sitios web estáticos (HTML, CSS y JS) directamente desde un repositorio en GitHub, sin necesidad de hosting adicional.
+📄 Requisitos
+Tener una cuenta en GitHub
+
+Tener un repositorio creado (puede estar vacío)
+
+Un archivo index.html como página de inicio
 
 #### ¿Cómo crear un sitio web con GitHub Pages?
-1. Crea una nueva rama llamada `gh-pages` o usa la rama principal.
+1. Creamos un repositorio 
 
 2. Sube tus archivos HTML, CSS y JS al repositorio en esta rama.
 
