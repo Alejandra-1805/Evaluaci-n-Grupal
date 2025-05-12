@@ -161,6 +161,15 @@ git add .
 git commit -m "Agregando nueva funcionalidad"
 git push origin nueva-rama
 ```
+<div align="center"> 
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/43bd5ebf-74f4-4717-af98-7e5dc9612bec" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/1afa201a-5465-42a0-8b00-ffe7bc64d6de" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
 
 ### 6. Publicación de Sitios Web con GitHub Pages
 GitHub Pages permite crear y publicar sitios web estáticos directamente desde un repositorio. Es útil para blogs, portfolios y documentación.
