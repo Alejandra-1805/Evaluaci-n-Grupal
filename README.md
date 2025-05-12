@@ -173,19 +173,40 @@ git push origin nueva-rama
 
 ### 6. Publicación de Sitios Web con GitHub Pages
 GitHub Pages permite publicar sitios web estáticos (HTML, CSS y JS) directamente desde un repositorio en GitHub, sin necesidad de hosting adicional.
-📄 Requisitos
-Tener una cuenta en GitHub
 
-Tener un repositorio creado (puede estar vacío)
+#### Requisitos
+-Tener una cuenta en GitHub
 
-Un archivo index.html como página de inicio
+-Tener un repositorio creado (puede estar vacío)
+
+-Un archivo index.html como página de inicio
 
 #### ¿Cómo crear un sitio web con GitHub Pages?
-1. Creamos un repositorio 
+1. Creamos un repositorio
+<img src="https://github.com/user-attachments/assets/d29ac85a-a133-4186-a703-1af8120b08d8" width="400" style="border: 1px solid #eee;">
+  
+2. Creamos un archivo con `.html`.
+<img src="https://github.com/user-attachments/assets/6ec33f8d-30b3-497d-9487-a4a6e55cdb0f" width="400" style="border: 1px solid #eee;">
 
-2. Sube tus archivos HTML, CSS y JS al repositorio en esta rama.
+3. Asignamos un nombre y damos click en `Commit changes`
+<img src="https://github.com/user-attachments/assets/8e9a7f75-97b5-433a-8428-88de4d5d3344" width="300" style="border: 1px solid #eee;">
 
-3. Ve a "Settings" del repositorio, busca la sección de GitHub Pages y selecciona la rama a usar para la publicación.
+4. Ve a <img src="https://github.com/user-attachments/assets/a592fe32-2274-49b0-92be-de7830c4d1d2" width="100" style="border: 1px solid #eee;"> del repositorio, busca la sección de GitHub Pages y selecciona la rama a usar para la publicación.
+
+5. En "settings" nos dirigimos a `pages`
+<img src="https://github.com/user-attachments/assets/1a6a7dfe-e518-472c-8e0d-ee5c622fc5ce" width="300" style="border: 1px solid #eee;">
+
+6.En github pages vamos a branch y seleccionamos
+<img src="https://github.com/user-attachments/assets/dc4aab3c-728c-4d25-99db-321e19f713b5" width="400" style="border: 1px solid #eee;">
+
+7.Enrutamos el branch para crear la pagina 
+<img src="https://github.com/user-attachments/assets/14154079-172c-4334-9dcc-6d2138943ba4" width="400" style="border: 1px solid #eee;">
+
+8.Se genera la pagina :[github]("https://nalva19.github.io/pageshit/")
+
+<img src="https://github.com/user-attachments/assets/d5e036b7-3d35-4ac4-b694-08eac41fed5f" width="400" style="border: 1px solid #eee;">
+
+
 
 ##### Ejemplo:
 Un simple archivo  `index.html`  puede ser creado como la página de inicio de tu sitio web:
