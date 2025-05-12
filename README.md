@@ -18,9 +18,15 @@ Para crear un **Issue**:
 3. Escribe un **título** claro y una **descripción** detallada. Aquí puedes indicar si es un error, una nueva funcionalidad, una tarea o una pregunta.
 4. Si es necesario, puedes asignar etiquetas y asignar el Issue a un miembro del equipo.
 
-| PASO 1 | PASO 2 |
-|----------|----------|
-| ![Image 1](https://github.com/user-attachments/assets/d0db88c2-dd2f-45d9-9761-64f8a1cd3615) | ![Image 2](https://github.com/user-attachments/assets/50c99fd1-4e01-404e-979d-ae6d419edef2) |
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d0db88c2-dd2f-45d9-9761-64f8a1cd3615" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/50c99fd1-4e01-404e-979d-ae6d419edef2" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
 
 ##### Ejemplo:
 
@@ -50,6 +56,13 @@ Un **Pull Request (PR)** es una solicitud para que los cambios realizados en una
 6. Haz clic en "Create Pull Request" para enviarlo.
 
 ##### Ejemplo de mensaje para un Pull Request:
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/973f2fb4-a712-4b9c-bae2-5a1005a694ec" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/eff6e535-4970-4044-995b-423be9c3469e" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/98502371-e60b-4d3f-b32a-f817a3073991" width="400"/></td>
+  </tr>
+</table>
 
 - **Título**: Añadir validación al formulario de login
 - **Descripción**: Este Pull Request agrega una validación para asegurarse de que el campo del correo electrónico no esté vacío antes de enviar el formulario. También se ha corregido un error en la validación de la contraseña.
