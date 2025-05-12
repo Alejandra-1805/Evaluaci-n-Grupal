@@ -222,6 +222,16 @@ El GitHub Dev Editor es una herramienta en línea que permite editar archivos di
 
 3. Realiza los cambios directamente en la interfaz y guarda tus cambios.
 
+<div align="center"> 
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/76dbe9cb-2036-4098-a416-8ada151a66dc" width="300"/></td>
+      <td><img src="https://github.com/user-attachments/assets/3f35ba27-970f-447f-a5be-3cb1e711bc57" width="300"/></td>
+    </tr>
+  </table>
+</div>
+
+
 ## Conclusión
 
 GitHub es una plataforma integral para el control de versiones y la colaboración en proyectos de software. Al dominar las herramientas y flujos de trabajo que ofrece, podrás gestionar proyectos de forma más efectiva, colaborar con otros desarrolladores y automatizar tareas repetitivas. Este manual proporciona una guía completa de las funcionalidades esenciales, y con la práctica, te volverás un experto en el uso de GitHub.
