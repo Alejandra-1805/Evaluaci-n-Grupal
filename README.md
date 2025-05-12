@@ -150,7 +150,7 @@ GitHub Pages permite crear y publicar sitios web estáticos directamente desde u
 3. Ve a "Settings" del repositorio, busca la sección de GitHub Pages y selecciona la rama a usar para la publicación.
 
 ##### Ejemplo:
-Un simple archivo `index.html` puede ser creado como la página de inicio de tu sitio web:
+Un simple archivo  `index.html`  puede ser creado como la página de inicio de tu sitio web:
 
 ```{html}
 <!DOCTYPE html>
