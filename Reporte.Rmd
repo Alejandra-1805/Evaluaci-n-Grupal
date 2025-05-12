@@ -31,6 +31,8 @@ Para crear un **Issue**:
 3. Escribe un **título** claro y una **descripción** detallada. Aquí puedes indicar si es un error, una nueva funcionalidad, una tarea o una pregunta.
 4. Si es necesario, puedes asignar etiquetas y asignar el Issue a un miembro del equipo.
 
+![Image](https://github.com/user-attachments/assets/0ac15fdb-8fbc-4ecb-b44a-5817249c3aa2)
+
 ##### Ejemplo:
 
 - **Título**: Error al hacer login
