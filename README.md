@@ -200,13 +200,13 @@ Un simple archivo  `index.html`  puede ser creado como la página de inicio de t
 ```
 
 ### 7. Uso de GitHub Codespaces
-## ¿Qué es GitHub Codespaces?
+#### ¿Qué es GitHub Codespaces?
 
 GitHub Codespaces es un entorno de desarrollo alojado en la nube que permite trabajar desde cualquier lugar, sin necesidad de configurar nada en tu computadora local. Puedes usarlo desde el navegador o desde Visual Studio Code.
 
 ---
 
-## Requisitos previos
+#### Requisitos previos
 
 - Tener una cuenta activa en [GitHub](https://github.com/).
 - Contar con permisos sobre el repositorio donde se desea trabajar.
@@ -214,15 +214,28 @@ GitHub Codespaces es un entorno de desarrollo alojado en la nube que permite tra
 
 ---
 
-## Cómo crear un Codespace
+#### Cómo crear un Codespace
 
-### Desde GitHub Web:
+##### Desde GitHub Web:
 
 1. Ingresar al repositorio en GitHub.
+  <img src="https://github.com/user-attachments/assets/ff7ec650-dd01-402e-9d24-ee7530c6b6c7" width="400" style="border: 1px solid #eee;">
+
+
 2. Hacer clic en el botón verde `<> Code`.
+ <img src="https://github.com/user-attachments/assets/14547d60-e250-4ba8-9027-c8b00e822d8e" width="400" alt="Captura de pantalla">
+ 
+
 3. Seleccionar la pestaña **Codespaces**.
+  <img src="https://github.com/user-attachments/assets/14547d60-e250-4ba8-9027-c8b00e822d8e" width="400" alt="Captura de pantalla">
+  
+
 4. Hacer clic en **+ New codespace**.
 5. Esperar a que se cargue el entorno de desarrollo en el navegador.
+ <img src="https://github.com/user-attachments/assets/57c8b8d7-7720-4471-af7c-894e6639d40e" width="400" alt="Captura de pantalla">
+  
+
+
 ##### Ejemplo de uso:
 Si estás trabajando en un proyecto `Node.js`, puedes abrir GitHub Codespaces y comenzar a editar los archivos, ejecutar pruebas y hacer commits directamente desde la interfaz web.
 
