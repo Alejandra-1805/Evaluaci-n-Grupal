@@ -193,19 +193,23 @@ GitHub Pages permite publicar sitios web estáticos (HTML, CSS y JS) directament
 
 4. Ve a <img src="https://github.com/user-attachments/assets/a592fe32-2274-49b0-92be-de7830c4d1d2" width="100" style="border: 1px solid #eee;"> del repositorio, busca la sección de GitHub Pages y selecciona la rama a usar para la publicación.
 
-5. En "settings" nos dirigimos a `pages`
+
+7. En "settings" nos dirigimos a `pages`
 <img src="https://github.com/user-attachments/assets/1a6a7dfe-e518-472c-8e0d-ee5c622fc5ce" width="300" style="border: 1px solid #eee;">
 
+
 6.En github pages vamos a branch y seleccionamos
+
 <img src="https://github.com/user-attachments/assets/dc4aab3c-728c-4d25-99db-321e19f713b5" width="400" style="border: 1px solid #eee;">
 
+
 7.Enrutamos el branch para crear la pagina 
+
 <img src="https://github.com/user-attachments/assets/14154079-172c-4334-9dcc-6d2138943ba4" width="400" style="border: 1px solid #eee;">
 
-8.Se genera la pagina :[github]("https://nalva19.github.io/pageshit/")
+8.Se genera la pagina : https://nalva19.github.io/pageshit/
 
 <img src="https://github.com/user-attachments/assets/d5e036b7-3d35-4ac4-b694-08eac41fed5f" width="400" style="border: 1px solid #eee;">
-
 
 
 ##### Ejemplo:
@@ -217,12 +221,83 @@ Un simple archivo  `index.html`  puede ser creado como la página de inicio de t
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Proyecto</title>
+    <title>Los Majestuosos Tigres</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        h1 {
+            color: #e67e22;
+            text-align: center;
+            border-bottom: 2px solid #e67e22;
+            padding-bottom: 10px;
+        }
+        .tiger-image {
+            width: 100%;
+            max-width: 500px;
+            height: auto;
+            border-radius: 8px;
+            margin: 15px auto;
+            display: block;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .section {
+            background-color: white;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
 </head>
 <body>
-    <h1>Bienvenidos a mi sitio web en GitHub Pages</h1>
-    <p>Este es un ejemplo de cómo publicar sitios web estáticos en GitHub.</p>
+    <h1>Los Tigres: Reyes de la Jungla</h1>
+    
+    <div class="section">
+        <h2>El Tigre de Bengala</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Walking_tiger_female.jpg/800px-Walking_tiger_female.jpg" 
+             alt="Tigre de Bengala caminando" 
+             class="tiger-image">
+        <p>El tigre de Bengala es la subespecie más numerosa, encontrada principalmente en India y Bangladesh. Son conocidos por su pelaje naranja con rayas negras distintivas.</p>
+    </div>
+    
+    <div class="section">
+        <h2>El Tigre Siberiano</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Siberian_tiger_sitting.jpg/800px-Siberian_tiger_sitting.jpg" 
+             alt="Tigre Siberiano sentado" 
+             class="tiger-image">
+        <p>El tigre siberiano es el más grande de todos, adaptado al frío de los bosques rusos. Su pelaje es más grueso y claro que otras subespecies.</p>
+    </div>
+    
+    <div class="section">
+        <h2>Datos Curiosos</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tiger_water_edit2.jpg/800px-Tiger_water_edit2.jpg" 
+             alt="Tigre nadando" 
+             class="tiger-image">
+        <ul>
+            <li>Los tigres pueden nadar hasta 6 km</li>
+            <li>Sus rayas son únicas como huellas dactilares</li>
+            <li>Un tigre adulto puede comer hasta 40 kg de carne en una noche</li>
+        </ul>
+    </div>
+    
+    <footer>
+        <p>© 2023 Página Educativa sobre Tigres | Imágenes de Wikimedia Commons</p>
+    </footer>
 </body>
+</html>
 </html>
 ```
 
