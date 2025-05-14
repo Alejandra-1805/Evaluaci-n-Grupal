@@ -370,18 +370,23 @@ El GitHub Dev Editor es una herramienta en línea que permite editar archivos di
 #### ¿Cómo usar GitHub Dev Editor?
 1. Navega a tu repositorio en GitHub.
 
-2. Haz clic en el botón de editar (pencil) en cualquier archivo para abrir el editor.
+2. Puedes ingresar directamente https://github.dev/github/dev.
 
-3. Realiza los cambios directamente en la interfaz y guarda tus cambios.
+3. Realiza los cambios directamente en la interfaz y guarda tus cambios. Podemos visualizar en https://github.dev/nalva19/dev/tree/patch-1
 
-<div align="center"> 
-  <table>
-    <tr>
-      <td><img src="https://github.com/user-attachments/assets/76dbe9cb-2036-4098-a416-8ada151a66dc" width="300"/></td>
-      <td><img src="https://github.com/user-attachments/assets/3f35ba27-970f-447f-a5be-3cb1e711bc57" width="300"/></td>
-    </tr>
-  </table>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Web en GitHub</title>
+  <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+  <h1>¡Hola desde GitHub.dev!</h1>
+  <button onclick="mostrarMensaje()">Haz clic aquí</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
 
 
 ## Conclusión
