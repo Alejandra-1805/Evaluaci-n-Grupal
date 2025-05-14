@@ -275,17 +275,24 @@ Un simple archivo  `index.html`  puede ser creado como la página de inicio de t
     
     <div class="section">
         <h2>El Tigre Siberiano</h2>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Siberian_tiger_sitting.jpg/800px-Siberian_tiger_sitting.jpg" 
-             alt="Tigre Siberiano sentado" 
-             class="tiger-image">
+        <div class="section">
+    <h2>Datos Curiosos</h2>
+    <img src="https://store.donanimhaber.com/a8/95/29/a895296c2af76e027345348d0ebc74bf.jpg" alt="Tigre nadando" width="400" style="border: 1px solid #eee;">
+
+</div>
         <p>El tigre siberiano es el más grande de todos, adaptado al frío de los bosques rusos. Su pelaje es más grueso y claro que otras subespecies.</p>
     </div>
     
     <div class="section">
         <h2>Datos Curiosos</h2>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tiger_water_edit2.jpg/800px-Tiger_water_edit2.jpg" 
-             alt="Tigre nadando" 
-             class="tiger-image">
+        <div class="section">
+    <h2>Datos Curiosos</h2>
+   <img src="https://store.donanimhaber.com/a8/95/29/a895296c2af76e027345348d0ebc74bf.jpg" 
+     alt="Tigre nadando" 
+     width="300" 
+     style="border: 1px solid #eee;">
+
+</div>
         <ul>
             <li>Los tigres pueden nadar hasta 6 km</li>
             <li>Sus rayas son únicas como huellas dactilares</li>
@@ -297,7 +304,6 @@ Un simple archivo  `index.html`  puede ser creado como la página de inicio de t
         <p>© 2023 Página Educativa sobre Tigres | Imágenes de Wikimedia Commons</p>
     </footer>
 </body>
-</html>
 </html>
 ```
 
