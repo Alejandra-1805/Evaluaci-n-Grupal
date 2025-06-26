@@ -20,6 +20,9 @@ Para crear un **Issue**:
 
 <div align="center">
   <table>
+
+
+    .
     <tr>
       <td><img src="https://github.com/user-attachments/assets/d0db88c2-dd2f-45d9-9761-64f8a1cd3615" width="300"/></td>
       <td><img src="https://github.com/user-attachments/assets/50c99fd1-4e01-404e-979d-ae6d419edef2" width="300"/></td>
